@@ -1,0 +1,13 @@
+body {
+    font-size: 15pt;
+    background-image: url(bg-home.png);
+    color: #000000;
+}
+button{
+  align-content: center;
+  height: 50px;
+  width: 250px;
+  background-color: #527522;
+color: #000000;
+
+}
